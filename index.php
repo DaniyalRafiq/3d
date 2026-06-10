@@ -79,7 +79,719 @@
     </section>
     <!-- End section -->
 
+    <!-- Sec-01 -->
+    <section class="section comparison-section">
+        <div class="container">
+
+            <div class="row justify-content-center text-center mb-5">
+                <div class="col-lg-8">
+                    <span class="section-badge text-uppercase">The Transformation</span>
+                    <h2 class="section-title">From Empty Room to <span class="accent-text">Luxury Vision</span></h2>
+                    <p class="section-desc">
+                        Drag the divider to reveal how we transform bare spaces into breathtaking, photorealistic luxury
+                        environments.
+                    </p>
+                </div>
+            </div>
+
+            <div class="row justify-content-center">
+                <div class="col-12 col-xl-11">
+                    <div class="comparison-slider-container">
+
+                        <div class="slider-image image-before">
+                            <img src="assets/images/before.jpeg" alt="Empty Space Before Transformation" loading="lazy">
+                            <span class="image-label label-before text-uppercase">Empty Space</span>
+                        </div>
+
+                        <div class="slider-image image-after">
+                            <img src="assets/images/after.jpeg" alt="Luxury 3D Architectural Visualization"
+                                loading="lazy">
+                            <span class="image-label label-after text-uppercase">3D Visualization</span>
+                        </div>
+
+                        <div class="slider-handle">
+                            <div class="handle-line"></div>
+                            <div class="handle-button">
+                                <i class="ri-arrow-left-right-line"></i>
+                            </div>
+                            <div class="handle-line"></div>
+                        </div>
+
+                    </div>
+
+                    <div class="text-center mt-3">
+                        <span class="drag-hint text-uppercase">
+                            <i class="ri-arrow-left-s-line"></i> Drag to compare <i class="ri-arrow-right-s-line"></i>
+                        </span>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+    <!-- Sec-01 End -->
+
+    <!--  sec-Counter-->
+    <section class="section counters-section">
+        <div class="container">
+            <div class="row g-4 justify-content-center">
+
+                <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="0">
+                    <div class="counter-card">
+                        <div class="counter-number-wrapper">
+                            <span class="counter-value" data-target="1200">0</span><span class="counter-suffix">+</span>
+                        </div>
+                        <h3 class="counter-label text-uppercase">Projects Delivered</h3>
+                        <p class="counter-desc">Luxury residential & commercial visualizations completed</p>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="150">
+                    <div class="counter-card">
+                        <div class="counter-number-wrapper">
+                            <span class="counter-value" data-target="98">0</span><span class="counter-suffix">%</span>
+                        </div>
+                        <h3 class="counter-label text-uppercase">Client Satisfaction</h3>
+                        <p class="counter-desc">Based on post-delivery client surveys</p>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">
+                    <div class="counter-card">
+                        <div class="counter-number-wrapper">
+                            <span class="counter-value" data-target="24">0</span><span class="counter-suffix">h</span>
+                        </div>
+                        <h3 class="counter-label text-uppercase">Turnaround Time</h3>
+                        <p class="counter-desc">Average delivery on standard visualization projects</p>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="450">
+                    <div class="counter-card">
+                        <div class="counter-number-wrapper">
+                            <span class="counter-value" data-target="45">0</span><span class="counter-suffix">+</span>
+                        </div>
+                        <h3 class="counter-label text-uppercase">Countries Served</h3>
+                        <p class="counter-desc">Global portfolio spanning 6 continents</p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!--  sec-Counter End-->
+
+    <section class="services-section">
+        <div class="container">
+            <div class="section-divider-line"></div>
+
+            <div class="services-header" data-aos="fade-up">
+                <span class="section-tagline">What We Offer</span>
+                <h2 class="section-title">Our Premium Services</h2>
+                <p class="section-subtitle">From ultra-photorealistic 3D renders to full-spectrum digital marketing, we
+                    provide end-to-end architectural visualization solutions.</p>
+            </div>
+
+            <div class="services-grid">
+
+                <div class="service-card" data-aos="fade-up" data-aos-delay="100">
+                    <div class="card-icon"><i class="ri-headphone-line"></i></div>
+                    <span class="card-tag">Immersive Tech</span>
+                    <h3 class="card-title">Interactive VR Simulations</h3>
+                    <p class="card-desc">Fully immersive virtual reality walkthroughs that let buyers step inside
+                        unbuilt
+                        properties with photorealistic...</p>
+                    <a href="#" class="card-link">Learn more <i class="ri-arrow-right-line"></i></a>
+                </div>
+
+                <div class="service-card" data-aos="fade-up" data-aos-delay="150">
+                    <div class="card-icon"><i class="ri-building-2-line"></i></div>
+                    <span class="card-tag">Core Service</span>
+                    <h3 class="card-title">3D Architectural Visualization</h3>
+                    <p class="card-desc">Ultra-photorealistic 3D renders of buildings, interiors, and master plans that
+                        bridge the gap between blueprint and...</p>
+                    <a href="#" class="card-link">Learn more <i class="ri-arrow-right-line"></i></a>
+                </div>
+
+                <div class="service-card" data-aos="fade-up" data-aos-delay="200">
+                    <div class="card-icon"><i class="ri-aspect-ratio-line"></i></div>
+                    <span class="card-tag">Virtual Staging</span>
+                    <h3 class="card-title">360° Virtual Staging</h3>
+                    <p class="card-desc">Panoramic 360-degree virtual staging that showcases every angle of a space in
+                        breathtaking ultra-high definition.</p>
+                    <a href="#" class="card-link">Learn more <i class="ri-arrow-right-line"></i></a>
+                </div>
+
+                <div class="service-card" data-aos="fade-up" data-aos-delay="250">
+                    <div class="card-icon"><i class="ri-sofa-line"></i></div>
+                    <span class="card-tag">Virtual Staging</span>
+                    <h3 class="card-title">Virtual Staging</h3>
+                    <p class="card-desc">Digitally furnish and style empty properties to dramatically increase buyer
+                        appeal
+                        and market value perception.</p>
+                    <a href="#" class="card-link">Learn more <i class="ri-arrow-right-line"></i></a>
+                </div>
+
+                <div class="service-card" data-aos="fade-up" data-aos-delay="100">
+                    <div class="card-icon"><i class="ri-magic-line"></i></div>
+                    <span class="card-tag">Photo Enhancement</span>
+                    <h3 class="card-title">Decluttering</h3>
+                    <p class="card-desc">Digitally remove unwanted items, furniture, and clutter from property photos to
+                        present spaces at their pristine...</p>
+                    <a href="#" class="card-link">Learn more <i class="ri-arrow-right-line"></i></a>
+                </div>
+
+                <div class="service-card" data-aos="fade-up" data-aos-delay="150">
+                    <!-- Swapped to ri-sparkling-2-line for guaranteed rendering -->
+                    <div class="card-icon"><i class="ri-sparkling-2-line"></i></div>
+                    <span class="card-tag">Virtual Staging</span>
+                    <h3 class="card-title">Virtual Staging & Decluttering</h3>
+                    <p class="card-desc">The complete transformation package — remove existing clutter and add premium
+                        virtual furnishings in one streamlined...</p>
+                    <a href="#" class="card-link">Learn more <i class="ri-arrow-right-line"></i></a>
+                </div>
+                <div class="service-card" data-aos="fade-up" data-aos-delay="200">
+                    <div class="card-icon"><i class="ri-line-chart-line"></i></div>
+                    <span class="card-tag">Marketing</span>
+                    <h3 class="card-title">Digital Marketing</h3>
+                    <p class="card-desc">Data-driven real estate marketing campaigns that leverage stunning visual
+                        assets to
+                        maximize property exposure...</p>
+                    <a href="#" class="card-link">Learn more <i class="ri-arrow-right-line"></i></a>
+                </div>
+
+                <div class="service-card" data-aos="fade-up" data-aos-delay="250">
+                    <div class="card-icon"><i class="ri-database-2-line"></i></div>
+                    <span class="card-tag">Technology</span>
+                    <h3 class="card-title">IDX Integration Services</h3>
+                    <p class="card-desc">Seamless MLS/IDX integration solutions that embed live property listings
+                        directly
+                        into your real estate website.</p>
+                    <a href="#" class="card-link">Learn more <i class="ri-arrow-right-line"></i></a>
+                </div>
+
+                <div class="service-card" data-aos="fade-up" data-aos-delay="100">
+                    <div class="card-icon"><i class="ri-palette-line"></i></div>
+                    <span class="card-tag">Creative</span>
+                    <h3 class="card-title">Graphic Design</h3>
+                    <p class="card-desc">Premium branding and graphic design services crafted specifically for luxury
+                        real
+                        estate and architectural professionals.</p>
+                    <a href="#" class="card-link">Learn more <i class="ri-arrow-right-line"></i></a>
+                </div>
+
+                <div class="service-card" data-aos="fade-up" data-aos-delay="150">
+                    <div class="card-icon"><i class="ri-code-s-slash-line"></i></div>
+                    <span class="card-tag">Technology</span>
+                    <h3 class="card-title">Custom Software Development</h3>
+                    <p class="card-desc">Bespoke real estate technology solutions — from interactive property portals to
+                        custom CRM and showcase platforms.</p>
+                    <a href="#" class="card-link">Learn more <i class="ri-arrow-right-line"></i></a>
+                </div>
+
+            </div>
+        </div>
+
+    </section>
+
+
+
+
+
+    <section class="why-choose-section">
+        <div class="container why-choose-wrapper">
+
+            <!-- Left Side: Content Column -->
+            <div class="w-content-col" data-aos="fade-right">
+                <span class="w-tagline">Why Choose Us</span>
+                <h2 class="w-title">Where Architecture Meets Artistry</h2>
+                <p class="w-description">
+                    We are not simply a rendering studio. We are architectural storytellers who understand
+                    that every pixel must communicate luxury, precision, and possibility. Our work
+                    transforms how buyers, investors, and developers experience unbuilt spaces.
+                </p>
+
+                <!-- Features List -->
+                <div class="w-features-list">
+
+                    <!-- Feature 1 -->
+                    <div class="w-feature-item">
+                        <div class="w-feature-icon">
+                            <i class="ri-medal-line"></i>
+                        </div>
+                        <div class="w-feature-text">
+                            <h3>Uncompromising Quality</h3>
+                            <p>Every render undergoes a rigorous multi-stage quality review process. We deliver nothing
+                                less than photorealism.</p>
+                        </div>
+                    </div>
+
+                    <!-- Feature 2 -->
+                    <div class="w-feature-item">
+                        <div class="w-feature-icon">
+                            <i class="ri-time-line"></i>
+                        </div>
+                        <div class="w-feature-text">
+                            <h3>Rapid Delivery</h3>
+                            <p>Standard projects delivered within 24–48 hours. Rush delivery available for time-critical
+                                listings.</p>
+                        </div>
+                    </div>
+
+                    <!-- Feature 3 -->
+                    <div class="w-feature-item">
+                        <div class="w-feature-icon">
+                            <i class="ri-shield-check-line"></i>
+                        </div>
+                        <div class="w-feature-text">
+                            <h3>Unlimited Revisions</h3>
+                            <p>We work until you are completely satisfied. Your vision is our mission — no revision
+                                caps, ever.</p>
+                        </div>
+                    </div>
+
+                </div>
+
+                <!-- CTA Button -->
+                <div class="w-action-wrapper">
+                    <a href="#" class="btn btn-theme">
+                        Request a Consultation <i class="ri-arrow-right-line ms-2"></i>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Right Side: Media Showcase Column -->
+            <div class="w-media-col" data-aos="fade-left">
+                <!-- Decorative High-Tech Frame Outlines -->
+                <div class="deco-frame frame-top-left"></div>
+                <div class="deco-frame frame-bottom-right"></div>
+
+                <!-- Main Media Element -->
+                <div class="w-image-container">
+                    <img src="assets/images/architecture-showcase.jpg" alt="Luxury Architecture Walkthrough"
+                        class="w-main-img">
+
+                    <!-- Floating Floating Metric Counter Badge -->
+                    <div class="w-counter-badge">
+                        <span class="counter-number">1,200+</span>
+                        <span class="counter-label">Projects Delivered</span>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+
+    <section class="portfolio-section">
+
+
+        <div class="container">
+
+            <!-- Header Group -->
+            <div class="portfolio-header" data-aos="fade-up" data-aos-duration="1000">
+                <span class="p-tagline">Featured Work</span>
+                <h2 class="p-title">Portfolio <span class="accent-text">Showcase</span></h2>
+                <p class="p-subtitle">Every render is a masterclass in photorealism — crafted with meticulous attention
+                    to lighting, material, and spatial storytelling.</p>
+            </div>
+
+            <!-- Custom Luxury Filter Tabs -->
+            <div class="portfolio-tabs" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
+                <button class="portfolio-tab-btn active" data-tab="living-rooms">Living Rooms</button>
+                <button class="portfolio-tab-btn" data-tab="master-bedrooms">Master Bedrooms</button>
+                <button class="portfolio-tab-btn" data-tab="kitchens">Kitchens</button>
+                <button class="portfolio-tab-btn" data-tab="exterior">Exterior</button>
+            </div>
+
+            <!-- ==========================================
+             TAB 1: LIVING ROOMS SLIDER BLOCK (ACTIVE)
+             ========================================== -->
+            <div class="portfolio-slider-block active" id="living-rooms" data-aos="fade-up" data-aos-delay="200"
+                data-aos-duration="1200">
+                <div class="swiper portfolioSwiper">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="portfolio-img-box">
+                                <img src="https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1400&q=80"
+                                    alt="Living Room 1">
+                                <div class="slide-overlay">
+                                    <div class="slide-content">
+                                        <h4 class="slide-title">Minimalist Concept Salon</h4>
+                                        <p class="slide-desc">Spacious architectural layout showing the interplay
+                                            between harsh daytime window shadows.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="portfolio-img-box">
+                                <img src="https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1400&q=80"
+                                    alt="Living Room 2">
+                                <div class="slide-overlay">
+                                    <div class="slide-content">
+                                        <h4 class="slide-title">Modernist Atrium Lounge</h4>
+                                        <p class="slide-desc">Polished micro-cement floors paired with custom
+                                            mid-century timber accent elements.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-button-prev portfolio-nav-btn"><i class="ri-arrow-left-s-line"></i></div>
+                    <div class="swiper-button-next portfolio-nav-btn"><i class="ri-arrow-right-s-line"></i></div>
+                </div>
+                <div class="swiper-pagination portfolio-pagination"></div>
+            </div>
+
+            <!-- ==========================================
+             TAB 2: MASTER BEDROOMS SLIDER BLOCK
+             ========================================== -->
+            <div class="portfolio-slider-block" id="master-bedrooms">
+                <div class="swiper portfolioSwiper">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="portfolio-img-box">
+                                <img src="https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&w=1400&q=80"
+                                    alt="Bedroom 1">
+                                <div class="slide-overlay">
+                                    <div class="slide-content">
+                                        <h4 class="slide-title">The Grand Obsidian Suite</h4>
+                                        <p class="slide-desc">Photorealistic interior visualization focusing on dark
+                                            material palettes and ambient low-light.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="portfolio-img-box">
+                                <img src="https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1400&q=80"
+                                    alt="Bedroom 2">
+                                <div class="slide-overlay">
+                                    <div class="slide-content">
+                                        <h4 class="slide-title">Japandi Rest Chamber</h4>
+                                        <p class="slide-desc">Low-profile oak beds frames calibrated against custom
+                                            textured plaster wall solutions.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-button-prev portfolio-nav-btn"><i class="ri-arrow-left-s-line"></i></div>
+                    <div class="swiper-button-next portfolio-nav-btn"><i class="ri-arrow-right-s-line"></i></div>
+                </div>
+                <div class="swiper-pagination portfolio-pagination"></div>
+            </div>
+
+            <!-- ==========================================
+             TAB 3: KITCHENS SLIDER BLOCK
+             ========================================== -->
+            <div class="portfolio-slider-block" id="kitchens">
+                <div class="swiper portfolioSwiper">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="portfolio-img-box">
+                                <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1400&q=80"
+                                    alt="Kitchen 1">
+                                <div class="slide-overlay">
+                                    <div class="slide-content">
+                                        <h4 class="slide-title">Nordic Culinary Framework</h4>
+                                        <p class="slide-desc">Bespoke marble island counters and timber joinery
+                                            rendering highlighting realistic reflections.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="portfolio-img-box">
+                                <img src="https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=1400&q=80"
+                                    alt="Kitchen 2">
+                                <div class="slide-overlay">
+                                    <div class="slide-content">
+                                        <h4 class="slide-title">Matte Charcoal Laboratory</h4>
+                                        <p class="slide-desc">Integrated handleless monolithic cabinets utilizing hidden
+                                            integrated LED task light profiles.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-button-prev portfolio-nav-btn"><i class="ri-arrow-left-s-line"></i></div>
+                    <div class="swiper-button-next portfolio-nav-btn"><i class="ri-arrow-right-s-line"></i></div>
+                </div>
+                <div class="swiper-pagination portfolio-pagination"></div>
+            </div>
+
+            <!-- ==========================================
+             TAB 4: EXTERIOR SLIDER BLOCK
+             ========================================== -->
+            <div class="portfolio-slider-block" id="exterior">
+                <div class="swiper portfolioSwiper">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="portfolio-img-box">
+                                <img src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1400&q=80"
+                                    alt="Exterior 1">
+                                <div class="slide-overlay">
+                                    <div class="slide-content">
+                                        <h4 class="slide-title">Twilight Estate Elevation</h4>
+                                        <p class="slide-desc">High-end residential framing mapping exact environmental
+                                            light pollution and glass opacity.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="portfolio-img-box">
+                                <img src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1400&q=80"
+                                    alt="Exterior 2">
+                                <div class="slide-overlay">
+                                    <div class="slide-content">
+                                        <h4 class="slide-title">Brutalist Coastal Pavilion</h4>
+                                        <p class="slide-desc">Raw raw shuttered concrete textures integrated with
+                                            dynamic computational water reflections.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-button-prev portfolio-nav-btn"><i class="ri-arrow-left-s-line"></i></div>
+                    <div class="swiper-button-next portfolio-nav-btn"><i class="ri-arrow-right-s-line"></i></div>
+                </div>
+                <div class="swiper-pagination portfolio-pagination"></div>
+            </div>
+
+        </div>
+    </section>
+
+
+    <section class="testimonials-section">
+        <div class="testi-grid-line"></div>
+
+        <div class="container">
+
+            <div class="row justify-content-center text-center mb-5" data-aos="fade-up" data-aos-duration="1000">
+                <div class="col-12 col-md-8 col-lg-6">
+                    <span class="t-tagline d-inline-block mb-2">Client Voices</span>
+                    <h2 class="t-title m-0">Trusted by <span class="accent-text">Industry Leaders</span></h2>
+                </div>
+            </div>
+
+            <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1200">
+                <div class="col-12 col-md-10 col-lg-8">
+
+                    <div class="swiper testimonialsSwiper">
+                        <div class="swiper-wrapper">
+
+                            <div class="swiper-slide">
+                                <div class="testimonial-card">
+                                    <div class="quote-mark"><i class="ri-double-quotes-l"></i></div>
+
+                                    <div class="card-top-row d-flex justify-content-between align-items-center mb-4">
+                                        <div class="star-rating" data-rating="5.0">
+                                            <i class="ri-star-fill"></i>
+                                            <i class="ri-star-fill"></i>
+                                            <i class="ri-star-fill"></i>
+                                            <i class="ri-star-fill"></i>
+                                            <i class="ri-star-fill"></i>
+                                            <span class="rating-number">5.0</span>
+                                        </div>
+                                        <div class="project-tag-badge">Residential Tower • Dubai</div>
+                                    </div>
+
+                                    <p class="testimonial-quote">
+                                        "VisualCraft Studio delivered renders so photorealistic that our clients were
+                                        genuinely surprised when we revealed they were digital. The level of detail in
+                                        every material texture and spatial light source is simply unmatched."
+                                    </p>
+
+                                    <div class="author-meta d-flex align-items-center">
+                                        <div class="author-img-box flex-shrink-0">
+                                            <img src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=150&q=80"
+                                                alt="Alexander Harrington">
+                                        </div>
+                                        <div class="author-info ms-3">
+                                            <h4 class="author-name m-0 mb-1">Alexander Harrington</h4>
+                                            <span class="author-role d-block">Principal Architect, Harrington &
+                                                Associates</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="testimonial-card">
+                                    <div class="quote-mark"><i class="ri-double-quotes-l"></i></div>
+
+                                    <div class="card-top-row d-flex justify-content-between align-items-center mb-4">
+                                        <div class="star-rating" data-rating="4.5">
+                                            <i class="ri-star-fill"></i>
+                                            <i class="ri-star-fill"></i>
+                                            <i class="ri-star-fill"></i>
+                                            <i class="ri-star-fill"></i>
+                                            <i class="ri-star-half-fill"></i>
+                                            <span class="rating-number">4.5</span>
+                                        </div>
+                                        <div class="project-tag-badge">Boutique Hotel • Miami</div>
+                                    </div>
+
+                                    <p class="testimonial-quote">
+                                        "The immersive lighting calibration brought our boutique pavilion design to life
+                                        long before groundbreaking. Their computational architecture workflow is clean,
+                                        agile, and remarkably high-tier."
+                                    </p>
+
+                                    <div class="author-meta d-flex align-items-center">
+                                        <div class="author-img-box flex-shrink-0">
+                                            <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&q=80"
+                                                alt="Marcus Vance">
+                                        </div>
+                                        <div class="author-info ms-3">
+                                            <h4 class="author-name m-0 mb-1">Marcus Vance</h4>
+                                            <span class="author-role d-block">Design Director, Vertex Development</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="testimonial-card">
+                                    <div class="quote-mark"><i class="ri-double-quotes-l"></i></div>
+
+                                    <div class="card-top-row d-flex justify-content-between align-items-center mb-4">
+                                        <div class="star-rating" data-rating="4.0">
+                                            <i class="ri-star-fill"></i>
+                                            <i class="ri-star-fill"></i>
+                                            <i class="ri-star-fill"></i>
+                                            <i class="ri-star-fill"></i>
+                                            <i class="ri-star-line"></i>
+                                            <span class="rating-number">4.0</span>
+                                        </div>
+                                        <div class="project-tag-badge">Luxury Villa • Monaco</div>
+                                    </div>
+
+                                    <p class="testimonial-quote">
+                                        "We required extremely rapid visualization iterations for a demanding
+                                        presentation board. Not only did they beat our time criteria, but the glass
+                                        opacity and reflections maps were flawlessly calculated."
+                                    </p>
+
+                                    <div class="author-meta d-flex align-items-center">
+                                        <div class="author-img-box flex-shrink-0">
+                                            <img src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&q=80"
+                                                alt="Julian Sterling">
+                                        </div>
+                                        <div class="author-info ms-3">
+                                            <h4 class="author-name m-0 mb-1">Julian Sterling</h4>
+                                            <span class="author-role d-block">Senior Partner, Sterling Atelier</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="testimonial-card">
+                                    <div class="quote-mark"><i class="ri-double-quotes-l"></i></div>
+
+                                    <div class="card-top-row d-flex justify-content-between align-items-center mb-4">
+                                        <div class="star-rating" data-rating="5.0">
+                                            <i class="ri-star-fill"></i>
+                                            <i class="ri-star-fill"></i>
+                                            <i class="ri-star-fill"></i>
+                                            <i class="ri-star-fill"></i>
+                                            <i class="ri-star-fill"></i>
+                                            <span class="rating-number">5.0</span>
+                                        </div>
+                                        <div class="project-tag-badge">Civic Center • London</div>
+                                    </div>
+
+                                    <p class="testimonial-quote">
+                                        "Their 3D asset optimization completely transformed our virtual VR workflow
+                                        pipeline. Clients can walk through unbuilt spatial schemes feeling the realistic
+                                        weight of every choice."
+                                    </p>
+
+                                    <div class="author-meta d-flex align-items-center">
+                                        <div class="author-img-box flex-shrink-0">
+                                            <img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&q=80"
+                                                alt="Elena Rostova">
+                                        </div>
+                                        <div class="author-info ms-3">
+                                            <h4 class="author-name m-0 mb-1">Elena Rostova</h4>
+                                            <span class="author-role d-block">Head of Infrastructure, Apex Urban</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="testimonials-controls-row d-flex justify-content-between align-items-center mt-4 px-2">
+                        <div class="swiper-pagination testimonials-pagination w-auto"></div>
+
+                        <div class="testimonials-nav-group d-none d-md-flex">
+                            <button class="testimonials-nav-btn btn-prev" aria-label="Previous slide">
+                                <i class="ri-arrow-left-line"></i>
+                            </button>
+                            <button class="testimonials-nav-btn btn-next" aria-label="Next slide">
+                                <i class="ri-arrow-right-line"></i>
+                            </button>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    </section>
+
     <!-- section partner -->
+
+    <!-- section Start -->
+    <section class="sec-01">
+        <div class="container">
+
+            <div class="row justify-content-center text-center">
+                <div class="col-12 col-md-10 col-lg-8">
+
+                    <!-- Tagline Subtitle -->
+                    <span class="cta-tagline d-block" data-aos="fade-up" data-aos-duration="1000">
+                        Let's Begin
+                    </span>
+
+                    <!-- Main Header Title Group -->
+                    <h2 class="cta-title" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
+                        Ready to Visualize <span class="accent-text">Your Vision?</span>
+                    </h2>
+
+                    <!-- Description Body Text -->
+                    <p class="cta-desc mx-auto" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
+                        Share your blueprints with us and receive a photorealistic preview of your future space within
+                        24 hours.
+                    </p>
+
+                    <!-- Your Action Button Cluster Group -->
+                    <div class="hero-actions d-flex flex-sm-row flex-column justify-content-center align-items-center gap-3"
+                        data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
+
+                        <a href="#" class="btn btn-theme">
+                            Request a Consultation <i class="ri-arrow-right-line ms-2"></i>
+                        </a>
+
+                        <a href="#" class="btn btn-theme btn-theme-outline">
+                            <i class="ri-play-fill me-2"></i> View Our Work
+                        </a>
+
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    </section>
+    <!-- section ENd -->
+
     <?php //include "partners.php" ?>
     <!-- end -->
 
