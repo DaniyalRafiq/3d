@@ -12,6 +12,7 @@
 
 <body>
     <!-- header -->
+    <!-- header -->
     <?php include 'header.php' ?>
     <!-- End header -->
 
